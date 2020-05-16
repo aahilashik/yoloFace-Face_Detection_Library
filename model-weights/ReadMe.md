@@ -1,4 +1,5 @@
-# Get the Weight File 'model-weights/yolov3-wider_16000.weights' :
+# Get the Weight File 
+#   'model-weights/yolov3-wider_16000.weights'
 
 
 ## Download from the below link :
